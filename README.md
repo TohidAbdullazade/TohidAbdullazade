@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tohid Abdullazade</h1>
+![image](https://github.com/TohidAbdullazade/TohidAbdullazade/assets/142052544/983ffe2d-7448-4046-8cbc-391084772086)<h1 align="center">Hi 👋, I'm Tohid Abdullazade</h1>
 <h3 align="center">A passionate developer from Azerbaijan</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
@@ -46,6 +46,8 @@
   </a> 
   <a href="https://mui.com/" target="_blank" rel="noreferrer" title="Maretial UI"> 
    <img src="https://static-00.iconduck.com/assets.00/material-ui-icon-512x406-fhnu85xg.png" alt="Merial UI" class="themedImage_BQGR themedImage--dark_bGx0" width="40" height="40" >
+  <a href="https://nextui.org/" target="_blank" rel="noreferrer" title="NextUI"> 
+   <img src="https://nextui.org/nextui-banner.png" alt="Merial UI" class="themedImage_BQGR themedImage--dark_bGx0" width="40" height="40" >
   </a> 
  
   
