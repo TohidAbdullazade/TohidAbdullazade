@@ -18,7 +18,7 @@
 <h3 align="left">Front-end:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer" title="HTML">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -58,6 +58,7 @@
   </a>
   <img align="right" alt="Coding" width="500"  src="https://somospnt.com/images/blog/cover/principal.jpg">
   <h3 align="left">DataBase:</h3>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPYZ0Kh8Gvt7rhSg0-WaeAzl-sk5O6a-3tiivzh1w8aor9rM-xylK2ZoP6SvIz6CpOOE4&usqp=CAU" alt="mongoDB" width="40" height="40"/>
   </a>
@@ -74,6 +75,7 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
 </p>
+
 
 
  
