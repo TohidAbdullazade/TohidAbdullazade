@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tohid Abdullazade</h1>
 <h3 align="center">A passionate developer from Azerbaijan</h3>
-<img align="right" alt="Coding" width="500"  src="https://somospnt.com/images/blog/cover/principal.jpg">
+
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -60,6 +60,7 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPYZ0Kh8Gvt7rhSg0-WaeAzl-sk5O6a-3tiivzh1w8aor9rM-xylK2ZoP6SvIz6CpOOE4&usqp=CAU" alt="mongoDB" width="40" height="40"/>
   </a>
+  <img align="right" alt="Coding" width="500"  src="https://somospnt.com/images/blog/cover/principal.jpg">
   
   <h3 align="left">Other Tools:</h3>
    <a href="https://www.postman.com" target="_blank" rel="noreferrer" title="Postman"> 
