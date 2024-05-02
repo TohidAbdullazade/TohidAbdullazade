@@ -29,7 +29,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind.css" > 
-  <img style="object-fit:cover;"  src="https://logowik.com/content/uploads/images/tailwind-css7675.logowik.com.webp" width="40" height="40"/>
+  <img   src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" width="40" height="40"/>
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="Javascript">
