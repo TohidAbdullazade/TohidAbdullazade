@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tohid Abdullazade</h1>
 <h3 align="center">A passionate developer from Azerbaijan</h3>
-<img align="right" alt="Coding"  src="https://somospnt.com/images/blog/cover/principal.jpg">
+<img align="right" alt="Coding" width="500"  src="https://somospnt.com/images/blog/cover/principal.jpg">
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
