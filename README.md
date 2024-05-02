@@ -71,7 +71,7 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
 </p>
-<img align="right" alt="Coding" width='650'  src="https://somospnt.com/images/blog/cover/principal.jpg">
+<img align="right" alt="Coding"  src="https://somospnt.com/images/blog/cover/principal.jpg">
 
  
   
