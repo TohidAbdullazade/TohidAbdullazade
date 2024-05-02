@@ -47,7 +47,7 @@
   <a href="https://mui.com/" target="_blank" rel="noreferrer" title="Maretial UI"> 
    <img src="https://static-00.iconduck.com/assets.00/material-ui-icon-512x406-fhnu85xg.png" alt="Merial UI" class="themedImage_BQGR themedImage--dark_bGx0" width="40" height="40" >
   <a href="https://nextui.org/" target="_blank" rel="noreferrer" title="NextUI"> 
-   <img src="https://nextui.org/nextui-banner.png" alt="Merial UI" class="themedImage_BQGR themedImage--dark_bGx0" width="40" height="40" >
+   <img src="https://raw.githubusercontent.com/nextui-org/nextui/main/apps/docs/public/isotipo.png" alt="Next UI" class="themedImage_BQGR themedImage--dark_bGx0" width="40" height="40" >
   </a> 
  
   
