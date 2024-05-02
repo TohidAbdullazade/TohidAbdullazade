@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning *Node.js*
 
-- 📫 How to reach me <a href="tohidabdullazade@gmail.com"/>
+- 📫 How to reach me <a target="_blank" href="tohidabdullazade@gmail.com"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
