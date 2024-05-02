@@ -1,4 +1,4 @@
-![image](https://github.com/TohidAbdullazade/TohidAbdullazade/assets/142052544/983ffe2d-7448-4046-8cbc-391084772086)<h1 align="center">Hi 👋, I'm Tohid Abdullazade</h1>
+<h1 align="center">Hi 👋, I'm Tohid Abdullazade</h1>
 <h3 align="center">A passionate developer from Azerbaijan</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
