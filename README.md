@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tohid Abdullazade</h1>
 <h3 align="center">A passionate developer from Azerbaijan</h3>
-<img align="right" alt="Coding" width='650'  src="https://somospnt.com/images/blog/cover/principal.jpg">
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -71,6 +71,7 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
 </p>
+<img align="right" alt="Coding" width='650'  src="https://somospnt.com/images/blog/cover/principal.jpg">
 
  
   
