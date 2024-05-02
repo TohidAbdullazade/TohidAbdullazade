@@ -1,26 +1,18 @@
-  <img align="right" alt="Coding"   src="https://somospnt.com/images/blog/cover/principal.jpg">
+<img align="right" alt="Coding"   src="https://somospnt.com/images/blog/cover/principal.jpg">
 <h1 align="center">Hi 👋, I'm Tohid Abdullazade</h1>
 <h3 align="center">A passionate developer from Azerbaijan</h3>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> 
 </p>
-
-
-
 - 🌱 I’m currently learning *Node.js*
-
 - 📫 How to reach me <code>tohidabdullazade@gmail.com</code>
-
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a title="Linkedin" href="https://www.linkedin.com/in/tohid-abdullazade-424135287/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tohid-abdullazade-424135287/" height="30" width="40" /></a>
 </p>
-
-
 <h3 align="left">Front-end:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer" title="HTML">
-    
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -52,20 +44,14 @@
   <a href="https://nextui.org/" target="_blank" rel="noreferrer" title="NextUI"> 
    <img src="https://raw.githubusercontent.com/nextui-org/nextui/main/apps/docs/public/isotipo.png" alt="Next UI" class="themedImage_BQGR themedImage--dark_bGx0" width="40" height="40" >
   </a> 
- 
-  
   <h3 align="left">Back-end:</h3>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer" title="Node.js">
    <img src="https://cdn4.iconfinder.com/data/icons/logos-3/454/nodejs-new-pantone-white-512.png" width="40" height="40"/>
   </a>
-  
-  <h3 align="left">DataBase:</h3>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB">
+    <h3 align="left">DataBase:</h3>
+   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPYZ0Kh8Gvt7rhSg0-WaeAzl-sk5O6a-3tiivzh1w8aor9rM-xylK2ZoP6SvIz6CpOOE4&usqp=CAU" alt="mongoDB" width="40" height="40"/>
-  </a>
-  
-  
+  </a>  
   <h3 align="left">Other Tools:</h3>
    <a href="https://www.postman.com" target="_blank" rel="noreferrer" title="Postman"> 
     <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/> 
