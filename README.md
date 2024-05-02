@@ -56,14 +56,14 @@
    <a href="https://www.postman.com" target="_blank" rel="noreferrer" title="Postman"> 
     <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
+  <a href="https://www.mongodb.com/products/tools/compass" target="_blank" rel="noreferrer" title="mongoDB Compass"> 
+    <img src="https://colmenaenlanube.es/wp-content/uploads/2021/04/mongodb-compass.png" alt="compass" width="40" height="40"/> 
+  </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Github"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>  
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/products/tools/compass" target="_blank" rel="noreferrer" title="mongoDB Compass"> 
-    <img src="https://colmenaenlanube.es/wp-content/uploads/2021/04/mongodb-compass.png" alt="compass" width="40" height="40"/> 
   </a> 
 </p>
 
