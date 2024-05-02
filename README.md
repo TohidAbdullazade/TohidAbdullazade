@@ -57,11 +57,9 @@
   </a>
   <h3 align="left">DataBase:</h3>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB">
-    <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="mongoDB" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPYZ0Kh8Gvt7rhSg0-WaeAzl-sk5O6a-3tiivzh1w8aor9rM-xylK2ZoP6SvIz6CpOOE4&usqp=CAU" alt="mongoDB" width="40" height="40"/>
   </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgreSQL" width="40" height="40"/>
-  </a>
+  
   <h3 align="left">Other Tools:</h3>
    <a href="https://www.postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/> 
