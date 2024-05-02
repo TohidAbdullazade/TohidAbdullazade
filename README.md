@@ -25,11 +25,11 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer" title="SASS"> 
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" width="40" height="40"/> 
   </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="Bootstrap"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://logowik.com/content/uploads/images/tailwind-css7675.logowik.com.webp" width="40" height="40"/>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind.css" > 
+  <img style="object-fit:cover;"  src="https://logowik.com/content/uploads/images/tailwind-css7675.logowik.com.webp" width="40" height="40"/>
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="Javascript">
