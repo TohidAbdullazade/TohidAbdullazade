@@ -56,11 +56,12 @@
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer" title="Node.js">
    <img src="https://cdn4.iconfinder.com/data/icons/logos-3/454/nodejs-new-pantone-white-512.png" width="40" height="40"/>
   </a>
+  <img align="right" alt="Coding" width="500"  src="https://somospnt.com/images/blog/cover/principal.jpg">
   <h3 align="left">DataBase:</h3>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPYZ0Kh8Gvt7rhSg0-WaeAzl-sk5O6a-3tiivzh1w8aor9rM-xylK2ZoP6SvIz6CpOOE4&usqp=CAU" alt="mongoDB" width="40" height="40"/>
   </a>
-  <img align="right" alt="Coding" width="500"  src="https://somospnt.com/images/blog/cover/principal.jpg">
+  
   
   <h3 align="left">Other Tools:</h3>
    <a href="https://www.postman.com" target="_blank" rel="noreferrer" title="Postman"> 
