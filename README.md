@@ -3,7 +3,12 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> 
+<p align="right">
+  <img align="right" alt="Coding" width="700"  src="https://somospnt.com/images/blog/cover/principal.jpg">
+</p>
+
+</p>
 
 - 🌱 I’m currently learning *Node.js*
 
@@ -56,7 +61,7 @@
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer" title="Node.js">
    <img src="https://cdn4.iconfinder.com/data/icons/logos-3/454/nodejs-new-pantone-white-512.png" width="40" height="40"/>
   </a>
-  <img align="right" alt="Coding" width="700"  src="https://somospnt.com/images/blog/cover/principal.jpg">
+  
   <h3 align="left">DataBase:</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB">
