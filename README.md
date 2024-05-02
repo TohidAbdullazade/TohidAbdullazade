@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tohid Abdullazade</h1>
 <h3 align="center">A passionate developer from Azerbaijan</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/dd/6e/62/dd6e62cf1ff9947166d7a471b61b5bd0.jpg">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me <code>tohidabdullazade@gmail.com</code>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://www.linkedin.com/in/tohid-abdullazade-424135287/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tohid-abdullazade-424135287/" height="30" width="40" /></a>
 </p>
