@@ -26,7 +26,7 @@
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" width="40" height="40"/> 
   </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="Bootstrap"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1daYSfLf7aqsr9DY6ccyeZztI6Z2V41wtlUpe2IwgAg&s" alt="bootstrap" width="40" height="40"/> 
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind.css" > 
   <img   src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" width="40" height="40"/>
@@ -45,7 +45,7 @@
     <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant design" class="themedImage_BQGR themedImage--dark_bGx0" width="40" height="40" >
   </a> 
   <a href="https://mui.com/" target="_blank" rel="noreferrer" title="Maretial UI"> 
-   <img src="https://miro.medium.com/v2/resize:fit:1200/1*fEyeESs-HxVR7Zlr-fdlvw.png" alt="Merial UI" class="themedImage_BQGR themedImage--dark_bGx0" width="40" height="40" >
+   <img src="https://static-00.iconduck.com/assets.00/material-ui-icon-512x406-fhnu85xg.png" alt="Merial UI" class="themedImage_BQGR themedImage--dark_bGx0" width="40" height="40" >
   </a> 
  
   
