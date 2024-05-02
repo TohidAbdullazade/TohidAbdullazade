@@ -39,7 +39,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a> 
   <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer" title="Redux Toolkit"> 
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*AJpFZrofvxMn3MHh9p3i_Q.jpeg" alt="Redux Logo" class="themedImage_BQGR themedImage--dark_bGx0" width="40" height="40" >
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" alt="Redux Logo" class="themedImage_BQGR themedImage--dark_bGx0" width="40" height="40" >
   </a> 
   <a href="https://ant.design/" target="_blank" rel="noreferrer" title="Ant-design"> 
     <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant design" class="themedImage_BQGR themedImage--dark_bGx0" width="40" height="40" >
