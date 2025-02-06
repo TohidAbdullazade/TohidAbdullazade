@@ -1,75 +1,21 @@
-<img align="right" alt="Coding"   src="https://somospnt.com/images/blog/cover/principal.jpg">
-<h1 align="center">Hi 👋, I'm Tohid Abdullazade</h1>
-<h3 align="center">A passionate developer from Azerbaijan</h3> 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> 
-</p>
-- 🌱 I’m currently learning *Node.js*
-- 📫 How to reach me <code>tohidabdullazade@gmail.com</code>
-<h3 align="left">Connect with me:</h3> 
-<p align="left">
-<a title="Linkedin" href="https://www.linkedin.com/in/tohid-abdullazade-424135287/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tohid-abdullazade-424135287/" height="30" width="40" /></a>
-</p>
-<h3 align="left">Front-end:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer" title="HTML">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer" title="SASS"> 
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="Bootstrap"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1daYSfLf7aqsr9DY6ccyeZztI6Z2V41wtlUpe2IwgAg&s" alt="bootstrap" width="40" height="40"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind.css" > 
-  <img   src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" width="40" height="40"/>
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="Javascript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React.js"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a> 
-  <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer" title="Redux Toolkit"> 
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" alt="Redux Logo" class="themedImage_BQGR themedImage--dark_bGx0" width="40" height="40" >
-  </a> 
-  <a href="https://ant.design/" target="_blank" rel="noreferrer" title="Ant-design"> 
-    <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant design" class="themedImage_BQGR themedImage--dark_bGx0" width="40" height="40" >
-  </a> 
-  <a href="https://mui.com/" target="_blank" rel="noreferrer" title="Maretial UI"> 
-   <img src="https://static-00.iconduck.com/assets.00/material-ui-icon-512x406-fhnu85xg.png" alt="Merial UI" class="themedImage_BQGR themedImage--dark_bGx0" width="40" height="40" >
-  <a href="https://nextui.org/" target="_blank" rel="noreferrer" title="NextUI"> 
-   <img src="https://raw.githubusercontent.com/nextui-org/nextui/main/apps/docs/public/isotipo.png" alt="Next UI" class="themedImage_BQGR themedImage--dark_bGx0" width="40" height="40" >
-  </a> 
-  <h3 align="left">Back-end:</h3>
-  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer" title="Node.js">
-   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/454/nodejs-new-pantone-white-512.png" width="40" height="40"/>
-  </a>
-    <h3 align="left">DataBase:</h3>
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPYZ0Kh8Gvt7rhSg0-WaeAzl-sk5O6a-3tiivzh1w8aor9rM-xylK2ZoP6SvIz6CpOOE4&usqp=CAU" alt="mongoDB" width="40" height="40"/>
-  </a>  
-  <h3 align="left">Other Tools:</h3>
-   <a href="https://www.postman.com" target="_blank" rel="noreferrer" title="Postman"> 
-    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/products/tools/compass" target="_blank" rel="noreferrer" title="mongoDB Compass"> 
-    <img src="https://colmenaenlanube.es/wp-content/uploads/2021/04/mongodb-compass.png" alt="compass" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Github"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>  
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-</p>
 
+## 🌐 Socials:
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/t.abdullazade) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tohid Abdullazade) 
 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=plastic&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=plastic&logo=bun&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TohidAbdullazade&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TohidAbdullazade&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TohidAbdullazade&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
- 
-  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TohidAbdullazade&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+[![](https://visitcount.itsvg.in/api?id=TohidAbdullazade&icon=1&color=9)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
